@@ -28,7 +28,7 @@ git remote add infero https://github.com/InferoIITH/Competitive-Programming.git
 git push infero cp/hsharsh   
 ```
 
-## else
+## else:
 
 - Inititalize a new repo.
 ``` bash
