@@ -23,7 +23,7 @@ git checkout -b cp/hsharsh
 ``` bash
 git remote add infero https://github.com/InferoIITH/Competitive-Programming.git   
 ```
-- push your branch (cp/your-username) to Infero's repo.
+- Push your branch (cp/your-username) to Infero's repo.
 ``` bash
 git push infero cp/hsharsh   
 ```
@@ -51,7 +51,7 @@ git checkout -b cp/hsharsh
 ``` bash
 git remote add infero https://github.com/InferoIITH/Competitive-Programming.git   
 ```
-- push your branch (cp/your-username) to Infero's repo.
+- Push your branch (cp/your-username) to Infero's repo.
 ``` bash
 git push infero cp/hsharsh   
 ```
