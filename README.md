@@ -1,7 +1,7 @@
 # Competitive-Programming
 Contains codes written by all the core members
 
-##if you already have git repo on your system, follow these steps:
+## if you already have git repo on your system, follow these steps:
 
 - Switch to your directory on your system.
 ``` bash
@@ -28,7 +28,7 @@ git remote add infero https://github.com/InferoIITH/Competitive-Programming.git
 git push infero cp/hsharsh   
 ```
 
-##else
+## else
 
 - Inititalize a new repo.
 ``` bash
